@@ -59,24 +59,11 @@
 
 ---
 
-## 🎯 Fun Section (Animation)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=phall-e&theme=tokyonight&no-frame=true&row=1"/>
-</p>
-
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/phall-e/phall-e/output/github-contribution-grid-snake.svg" />
 </p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phall-e&theme=tokyo-night" />
-</p>
----
 
 ## 📫 Contact Me
 
