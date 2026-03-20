@@ -36,8 +36,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=phall-e&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phall-e&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=phall-e&theme=tokyonight" />
 </p>
 
 ---
@@ -62,7 +62,7 @@
 ## 🎯 Fun Section (Animation)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=phall-e&theme=tokyonight&no-frame=true&row=1"/>
 </p>
 
 ---
@@ -83,7 +83,7 @@
 ## 👀 Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00C2FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=phall-e&color=00C2FF&style=for-the-badge" />
 </p>
 
 ---
