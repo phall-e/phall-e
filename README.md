@@ -19,7 +19,7 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,vue,nuxt,ts,js,postgres,mysql,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,vue,nuxt,ts,js,laravel,flutter,postgres,mysql,docker,git,linux" />
 </p>
 
 ---
@@ -65,6 +65,17 @@
   <img src="https://github-profile-trophy.vercel.app/?username=phall-e&theme=tokyonight&no-frame=true&row=1"/>
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/phall-e/phall-e/output/github-contribution-grid-snake.svg" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phall-e&theme=tokyo-night" />
+</p>
 ---
 
 ## 📫 Contact Me
