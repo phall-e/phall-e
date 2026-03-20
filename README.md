@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm ML
 
-<!--
-**phall-e/phall-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer (NestJS + Nuxt + PostgreSQL)  
+🏢 Working on MongkulBiz ERP System  
+🌏 Based in Cambodia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+- Backend: NestJS, Laravel
+- Frontend: Nuxt 3, Vue 3
+- Database: PostgreSQL, MySQL
+- DevOps: Docker, CI/CD
+
+---
+
+## 📌 Current Project
+- 🏗 MongkulBiz (ERP System)
+- 📦 Purchase Management System
+- 🧾 Approval Workflow System
+
+---
+
+## 📫 Contact Me
+- Email: your@email.com
+- GitHub: https://github.com/yourusername
