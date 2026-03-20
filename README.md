@@ -1,4 +1,4 @@
-# Hi 👋, I'm ML
+# Hi 👋, I'm Phall
 
 🚀 Full Stack Developer (NestJS + Nuxt + PostgreSQL)  
 🏢 Working on MongkulBiz ERP System  
@@ -22,5 +22,5 @@
 ---
 
 ## 📫 Contact Me
-- Email: your@email.com
-- GitHub: https://github.com/yourusername
+- Email: eomphall@email.com
+- GitHub: https://github.com/phall-e
